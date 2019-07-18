@@ -1,6 +1,6 @@
 # Chess Trainer
 
-*NOTE: This project is currently at the planning stage. None of the features implemented below has been implemented yet.*
+*NOTE: This project is currently at the planning stage. None of the features described below has been implemented yet.*
 
 This web app allows you to play chess with an online opponent, and provides you with feedback as to the strengths and weaknesses of the current position.
 
